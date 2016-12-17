@@ -1,10 +1,18 @@
+/*
+///////////////////////////////////////
+          - DARK THEME -
+    - made from scratch by JDJZ -
+///////////////////////////////////////
+        /!\ DO NOT CHANGE! 
+*/
+
 .form.settings.user-settings-modal .settings-actions:before,
 .lastversion:after {
     content: "Current version: v1.0.0";
 }
 
 .app:after {
-    content: "Current version: v1.0.0\A - Added a lot of design!\A - Fixed some bugs\A - Some small tweaks here and there ;)";
+    content: "Current version: v1.0.0\A - RELEASE!\A - Fixed some bugs\A - Made theme! ;)";
 }
 
 
