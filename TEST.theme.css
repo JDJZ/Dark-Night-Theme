@@ -9,11 +9,11 @@
 
 .form.settings.user-settings-modal .settings-actions:before,
 .lastversion:after {
-    content: "Current version: v1.8.0";
+    content: "Current version: v1.0.0";
 }
 
 .app:after {
-    content: "Current version: v1.8.0\A - Made the 'friends' button pinned on top of the friends panel\A - Fixed some bugs\A - Some small tweaks here and there \A Thanks for using the material theme ;)";
+    content: "Current version: v1.0.0\A What We Updated:\a 1. RELEASE!\A 2. Fixed some bugs\A 3. Finished Design!\A Thanks for using the Dark Night theme ;)";
 }
 
 
