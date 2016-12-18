@@ -1,18 +1,19 @@
 /*
 ///////////////////////////////////////
-          - DARK THEME -
-    - made from scratch by JDJZ -
+ - Beard's Material Discord Theme -
+- made from scratch by Beard Design -
+       - beard-design.com -
 ///////////////////////////////////////
-        /!\ DO NOT CHANGE! 
+/!\ DO NOT RECOLOR AND POST IT AS YOUR OWN THEME
 */
 
 .form.settings.user-settings-modal .settings-actions:before,
 .lastversion:after {
-    content: "Current version: v1.0.0";
+    content: "Current version: v1.8.0";
 }
 
 .app:after {
-    content: "Current version: v1.0.0\A - RELEASE!\A - Fixed some bugs\A - Made theme! ;)";
+    content: "Current version: v1.8.0\A - Made the 'friends' button pinned on top of the friends panel\A - Fixed some bugs\A - Some small tweaks here and there \A Thanks for using the material theme ;)";
 }
 
 
